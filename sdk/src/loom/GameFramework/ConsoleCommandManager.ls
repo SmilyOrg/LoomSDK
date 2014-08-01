@@ -23,7 +23,7 @@ package loom.gameframework
    import loom.Application;
    
    /**
-    * Represent a conmmand in the console command manager.
+    * Represents a command in the console command manager.
     * @private
     */
    protected class ConsoleCommand
